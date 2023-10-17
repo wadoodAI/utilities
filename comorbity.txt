@@ -1,0 +1,249 @@
+aids
+aids hiv infection opportunistic infection
+hiv infection symptomatic
+hiv patient with candidiasis of bronchi trachea esophagus or lungs
+hiv patient with coccidioidomycosis
+hiv patient with cryptococcosis
+hiv patient with cryptosporidiosis chronic intestinal greater than 1 month s duration
+hiv patient with cytomegalovirus disease particularly cmv retinitis
+hiv patient with encephalopahty hiv related
+hiv patient with herpes simplex bronchitis pneumonitis or esophagitis
+hiv patient with histoplasmosis
+hiv patient with invasive cervical cancer
+hiv patient with isosporiasis chronic intestinal
+hiv patient with kaposi s sarcoma
+hiv patient with lymphoma that is burkitt s type immunoblastic or that is primary and affects the brain or central nervous system
+hiv patient with mycobacterium avium infection
+hiv patient with pneumocystis carinii pneumonia
+hiv patient with pneumonia recurrent
+hiv patient with progressive multifocal encephalopathy
+hiv patient with salmonella septicemia recurrent
+hiv patient with toxoplasmosis of brain
+hiv patient with tuberculosis
+wasting syndrome due to hiv
+hiv positive with mention of not aids or no opportunistic infection as listed above
+hiv with no opportunistic infection
+hiv asymptomatic
+hiv positive with no mention of opportunistic infection as listed above
+age related cognitive decline
+alzheimer s or other dementia
+age related physical debility
+alzheimer s
+amnestic disorder
+catatonic disorder
+cerebral degeneration
+dementia
+presenile dementia
+senile degermation of brain
+senile dementia
+systemic atrophy primarily affecting central nervous system
+addison s disease
+autoimmune disease
+adult still s disease
+agammaglobulinemia
+alopecia areata
+antiphospholipid syndrome
+autoimmune hepatitis
+behcet s disease
+benign mucosal pemphigoid
+bullous pemphigoid
+celiac disease
+chagas disease
+chronic inflammatory demyelinating polyneuropathy cidp
+chronic recurrent multifocal osteomyelitis crmo
+churg strauss syndrome css or eosinophilic granulomatosis egpa
+cicatricial pemphigoid
+dermatitis herpetiformis
+dermatomyositis
+devic s disease neuromyelitis optica
+diffuse eosinophilic fasciitis
+discoid lupus
+dressler s syndrome
+evans syndrome
+felty s syndrome
+giant cell arteritis with polymyalgia rheumatica
+goodpasture s syndrome
+granulomatosis with polyangiitis
+graves disease
+guillain barre syndrome
+hashimoto s thyroiditis
+autoimmune disease
+immune thrombocytopenic purpura itp
+inclusion body myositis ibm
+interstitial cystitis ic
+juvenile arthritis
+kawasaki disease
+lambert eaton syndrome
+lyme disease chronic
+microscopic polyangiitis mpa
+multifocal motor neuropathy mmn or mmncb
+multiple sclerosis
+myasthenia gravis
+narcolepsy neuromyelitis optica
+palindromic rheumatism pr
+pemphigus
+polyarteritis nodosa
+polymyalgia rheumatica
+polymyositis
+postmyocardial infarction syndrome
+primary biliary cirrhosis
+psoriasis
+psoriatic arthritis
+reactive arthritis
+relapsing polychondritis
+relapsing polychondritis
+rheumatic fever
+rheumatoid arthritis
+rheumatoid lung
+schmidt syndrome
+scleroderma
+sicca syndrome
+stiff person syndrome sps
+takayasu s arteritis
+type 1 diabetes
+ulcerative colitis uc
+vogt koyanagi harada disease
+cva
+cerebrovascular accident including history of tias
+cerebrovascular disease
+central retinal artery occlusion
+cerebral aneurysm
+cerebral infarction
+intracerebral hemorrhage
+intracranial hemorrhage
+occlusion and stenosis of cerebral arteries and precerebral arteries
+transient cerebral ischemia
+chronic airway obstruction
+retinal artery occlusions
+stroke
+subarachnoid hemorrhage
+transient ischemic attack
+transient retinal artery occlusion
+asbestosis
+asthma
+bronchiectasis
+copd
+chronic bronchitis
+chronic drug induced interstitial lung disorders
+coal workers pneumoconiosis
+chronic obstructive pulmonary disease including chronic bronchitis or emphysema
+emphysema explicitly stated diagnosed not just mentioned on a scan
+extrinsic allergic alveolitis
+hypersensitivity pneumonitis due to organic dust
+pneumoconiosis
+simple and mucopurulent chronic bronchitis
+status asthmaticus
+alcoholic cardiomyopathy
+cardiomyopathy
+congestive heart failure history of treatment for
+chf
+heart failure
+hypertensive heart disease with heart failure
+ischemic cardiomyopathy
+malignant hypertensive heart disease with heart failure
+nutritional and metabolic cardiomyopathy
+rheumatic heart failure congestive
+lupus
+connective tissue disease
+mixed connective tissue disease
+sarcoidosis
+sjögren s syndrome
+systemic vasculitis
+diabetes with neurological manifestations
+diabetes with chronic complications
+diabetes with ophthalmic complications
+diabetes with peripheral circulatory disorders
+diabetes with renal manifestations
+diabetes with mention of no complication
+diabetes without chronic complications
+drug or chemical induced diabetes mellitus
+type 2 diabetes mellitus
+diabetes mellitus without mention of complications stated above
+cerebral palsy
+hemiplegia
+hemiparesis
+hemiplegia
+other paralytic syndromes
+paraplegia
+quadriparesis
+quadriplegia
+chronic lymphocytic leukemia
+chronic myeloid leukemia
+leukemia other than aml
+acute lymphocytic leukemia
+any hepatitis cirrhosis fatty liver liver fibrosis or liver disease that cannot be categorized as moderate or severe
+liver disease mild
+portal hypertension without mention of variceal bleeding
+esophageal varices without mention of bleeding
+gastric varices without mention of bleeding
+liver disease moderate
+hepatic veno occlusive disease
+hepatorenal syndrome
+toxic liver disease with hepatic necrosis
+hepatic failure
+esophageal varices with bleeding
+gastric varices with bleeding
+liver disease severe
+hepatic encephalopathy
+needs or history of liver transplant
+any end stage or severe liver condition
+hodgkin lymphoma
+non hodgkins lymphoma follicular lymphoma
+lymphoma
+lymphosarcoma
+t cell lymphoma
+waldenstrom s macroglobulinemia
+myeloma
+b cell lymphoma
+ensure the other tumor is stated as metastatic
+metastatic solid tumor other than tumor type any history of
+history of mi
+heart attack
+myocardial infarction any history of
+stemi nstemi
+chronic glomerulonephritis
+chronic kidney disease unspecified
+chronic nephritic syndrome
+kidney disease with unknown stage or severity
+kidney replaced by transplant
+nephritis nephropathy
+unspecified nephritic syndrome
+unspecified kidney disease
+chronic kidney disease stage 1
+chronic kidney disease stage 1
+chronic kidney disease stage 2
+chronic kidney disease stage 2
+chronic kidney disease stage 3
+chronic kidney disease stage 3
+chronic kidney disease stage 4
+chronic kidney disease stage 4
+chronic kidney disease stage 5
+chronic kidney disease stage 5
+dependence on renal dialysis
+end stage renal disease
+renal failure nos
+renal osteodystrophy
+any severe or end stage renal condition
+aneurysm of aorta
+surgical treatment for peripheral vascular disease history of
+angioplasty
+aortitis
+arterial embolism and thrombosis
+atherosclerosis
+arterial dissection
+balloon angioplasty stenting non cardiac
+bypass grafting non cardiac
+chronic vascular disorders of intestine
+gangrene
+other disorders of arteries arterioles and capillaries in diseases classified elsewhere
+peripheral vascular disease unspecified
+presence of vascular implants and grafts non cardiac
+stricture of artery
+thromboangitis obliterans buerger s disease
+vascular disorder of intestine unspecified
+gastric ulcer
+ulcer disease do not include gerd or ulcerative colitis
+gastrojejunal ulcer
+peptic ulcer disease
+duodenal ulcer
+peptic ulcer unspecified
