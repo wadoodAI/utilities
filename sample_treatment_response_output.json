@@ -1,0 +1,48 @@
+{'prediction': 'complete_response',
+ 'details': [{
+  'prediction': 'complete_response',
+  'pif_key': '1231',
+  'date_of_service': '2014-11-24',
+  'confidence': 1.0,
+  'normalized_prediction': 'complete_response',
+  'code': '399056007',
+  'vocab': 'SNOMED',
+  'tumor' : 'lung cancer',
+  'doc_type' : 'provider_note'
+   },
+  {
+  'prediction': 'partial_response',
+  'pif_key': '1232',
+  'date_of_service': '2014-11-23',
+  'confidence': 1.0,
+  'normalized_prediction': 'partial_response',
+  'code': '399204005',
+  'vocab': 'SNOMED',
+  'tumor' : 'lung cancer',
+  'doc_type' : 'provider_note'
+ }
+  {
+  'prediction': 'stable_disease',
+  'pif_key': '1233',
+  'date_of_service': '2014-11-22',
+  'confidence': 1.0,
+  'normalized_prediction': 'stable',
+  'code': '58158008',
+  'vocab': 'SNOMED',
+  'tumor' : 'lung cancer',
+  'doc_type' : 'provider_note'
+ }
+  {
+  'prediction': 'progressive_disease',
+  'pif_key': '1234',
+  'date_of_service': '2014-11-21',
+  'confidence': 1.0,
+  'normalized_prediction': 'progressive_disease',
+  'code': '419835002',
+  'vocab': 'SNOMED',
+  'tumor' : 'lung cancer',
+  'doc_type' : 'provider_note'
+ }
+ ]
+ 'template': 'template_patdoc_single_prediction_temporal_5',
+ 'version': 'v1'}
